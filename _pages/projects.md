@@ -3,6 +3,14 @@ layout: single
 title: "Projects"
 permalink: /projects/
 ---
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Robotics Motion Planning {#robotics-motion-planning}
+- Built a path-planning product inside AGM; simulated optimal, collision-free motions in CAD cells.
+- Defined roadmap with OEMs/integrators; 3 OEM collaborations toward deployment.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## CSM/CVM Meshing Workflows {#meshing-workflows}
+- Delivered simulation-ready workflows powering 4 customer apps; contributed to ~5% company revenue.
+- Spearheading **AI-guided, solution-aware meshing** initiative.
+
+## Solid-State Battery Modeling {#battery-modeling}
+- Particle-scale electro-chemo-mechanics with sharp-interface fracture (JMPS 2024).
+- Image-to-mesh pipeline (OpenCV) + HPC runs; Toyota Research funded.
