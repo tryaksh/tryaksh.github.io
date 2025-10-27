@@ -1,45 +1,25 @@
 title: "Tryaksh Gupta"
 email: "tryaksh@umich.edu"
-description: "Portfolio - Design, Computational Modeling & Simulation"
+description: "Product · Design · Modeling · Simulation"
 github_username: "tryaksh"
 minimal_mistakes_skin: "default"
 search: true
-
-# Build / Theme
-markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
-include:
-  - _pages
-
-# Plugins (lean)
-plugins:
-  - jekyll-sitemap
-  - jekyll-include-cache
+include: [_pages]
+plugins: []  # keep your current plugins if you have them
 
 author:
   name   : "Tryaksh Gupta"
-  avatar : "/assets/images/bio-photo.jpg"   # remove or update if not present
-  bio    : "My work lives where product thinking meets design, modeling, and simulation."
+  avatar : "/assets/images/bio-photo.jpg"   # already in your repo
+  bio    : "PM/Engineer building simulation & robotics products at Spatial (Dassault Systèmes)."
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/tryakshgupta"
-
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/tryakshgupta"
-    # - label: "Instagram"   # optional
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://www.instagram.com/tryaksh.gupta"
-
-# Defaults (pages only)
-defaults:
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/tryaksh"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:tryaksh@umich.edu"
