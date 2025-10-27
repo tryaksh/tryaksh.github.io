@@ -7,10 +7,10 @@ search: true
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
   - jekyll-include-cache
 permalink: /:categories/:title/
 include: [_pages]
-plugins: []  # keep your current plugins if you have them
 
 author:
   name   : "Tryaksh Gupta"
