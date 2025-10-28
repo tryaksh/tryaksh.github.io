@@ -3,6 +3,31 @@ layout: single
 title: "Career"
 permalink: /career/
 ---
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Product Manager — Spatial Corp (Dassault Systèmes) {#spatial}
+![Spatial Logo](/assets/images/logos/spatial.png){: .align-left .w-20 }
+🏆 **Spatial Excellence Award 2025**
+
+I work across Spatial’s product & engineering to advance simulation and robotics workflows. I manage **CSM/CVM**, **CDS**, and **Robotics Path Planning**, partnering with R&D to build SDK-based workflows.
+
+**Focus areas**
+- **Robotics:** motion planning, inverse kinematics, path simulation  
+- **FEA & Simulation:** meshing for multiphysics (CFD/Structural/EM) recognized by the simulation community
+
+**Product lifecycle**
+- **Strategy:** roadmaps, competitive analysis, MVP & feature planning  
+- **Build & Scale:** C++ proofs-of-concept → enterprise workflows  
+- **Go-to-Market:** positioning, launch materials, docs & rollout  
+- **Product Ops:** internal enablement, escalation & R&D prioritization
+
+---
+
+## Research Associate — University of Michigan {#umich}
+![U-M Logo](/assets/images/logos/umich.png){: .align-left .w-20 }
+Solid-state battery modeling and computational mechanics; tooling and simulation workflows; publications including JMPS 2024.
+
+---
+
+## Cell Engineering Intern — Tesla {#tesla}
+![Tesla Logo](/assets/images/logos/tesla.png){: .align-left .w-20 }
+Electrostatic cleaning prototype deployed on high-volume lines; quality and manufacturability improvements.
