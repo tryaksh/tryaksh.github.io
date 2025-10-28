@@ -5,7 +5,7 @@ author_profile: true
 
 header:
   overlay_color: "#0e1117"
-  overlay_image: /assets/images/hero-mesh-gradient.jpg
+  overlay_image: /assets/images/hero-mesh-gradient.png
   actions:
     - label: "Download Résumé"
       url: /assets/6_2025_GuptaTryakshResume.pdf
