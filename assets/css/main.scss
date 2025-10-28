@@ -22,9 +22,9 @@
   box-shadow: 0 12px 28px rgba(0,0,0,.32);
 }
 
-/* 3) LinkedIn-sized logos for the home cards */
+/* 3) LinkedIn-sized logos for the home cards (generic img fallback) */
 .feature__item img {
-  max-height: 20px;       /* <- tweak here if you want smaller/larger */
+  max-height: 56px;
   width: auto;
   margin: 0 auto .6rem;
   display: block;
@@ -35,6 +35,23 @@
 .feature__item:hover img {
   transform: scale(1.05);
   filter: brightness(1.05);
+}
+
+/* === FIX THAT MAKES IT WORK WITH Minimal Mistakes feature_row ===
+   Images in feature_row live inside .archive__item-teaser. We clamp that box
+   and the img inside so oversized logos can't blow up the layout.            */
+.feature__item .archive__item-teaser {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 72px;                 /* teaser box height */
+  margin-bottom: .5rem;
+}
+.feature__item .archive__item-teaser img {
+  max-height: 56px !important;  /* actual logo clamp (LinkedIn-ish) */
+  width: auto !important;
+  object-fit: contain;
+  margin: 0 !important;
 }
 
 /* 4) Buttons that pop on dark */
