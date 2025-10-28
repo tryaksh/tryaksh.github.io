@@ -24,7 +24,7 @@
 
 /* 3) LinkedIn-sized logos for the home cards (generic img fallback) */
 .feature__item img {
-  max-height: 56px;
+  max-height: 20px;
   width: auto;
   margin: 0 auto .6rem;
   display: block;
@@ -48,7 +48,7 @@
   margin-bottom: .5rem;
 }
 .feature__item .archive__item-teaser img {
-  max-height: 56px !important;  /* actual logo clamp (LinkedIn-ish) */
+  max-height: 20px !important;  /* actual logo clamp (LinkedIn-ish) */
   width: auto !important;
   object-fit: contain;
   margin: 0 !important;
