@@ -13,21 +13,21 @@ header:
 
 # Career row config (cards with logos + buttons)
 career_row:
-  - image_path: /assets/images/logos/spatial.png
+  - image_path: /assets/images/logos/spatial.svg
     alt: "Spatial (Dassault Systèmes)"
     title: "Product @ Spatial Corp"
     excerpt: "Jul 2023 – Present · Product/Engineering across CAE & Robotics SDKs"
     url: /career/#spatial
     btn_label: "Learn more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/logos/umich.png
+  - image_path: /assets/images/logos/umich.svg
     alt: "University of Michigan"
     title: "Research Associate @ U-M"
     excerpt: "Dec — [year] · Computational mechanics & tooling"
     url: /career/#umich
     btn_label: "Learn more"
     btn_class: "btn--primary"
-  - image_path: /assets/images/logos/tesla.png
+  - image_path: /assets/images/logos/tesla.svg
     alt: "Tesla"
     title: "Cell Engineering Intern @ Tesla"
     excerpt: "[dates] · Manufacturing R&D and cell quality"
