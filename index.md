@@ -11,12 +11,7 @@ header:
       url: /assets/6_2025_GuptaTryakshResume.pdf
       class: "btn btn--primary"
 
-intro: |
-  I build practical simulation & robotics products—going from workflow mapping to shipped SDKs and customer wins.
----
-
-## Career at a Glance
-
+# Career row config (cards with logos + buttons)
 career_row:
   - image_path: /assets/images/logos/spatial.png
     alt: "Spatial (Dassault Systèmes)"
@@ -40,23 +35,30 @@ career_row:
     btn_label: "Learn more"
     btn_class: "btn--primary"
 
-{% include feature_row id="career_row" type="left" %}
-
-## Highlights
-
+# Project highlights row (icon cards)
 feature_row:
   - image_path: /assets/images/icons/robot-arm.svg
+    alt: "Robotics"
     title: "Robotics Motion Planning"
     excerpt: "Collision-free motions in CAD environments; 3 OEM collaborations."
     url: /projects/#robotics-motion-planning
     btn_label: "See project"
   - image_path: /assets/images/icons/mesh.svg
+    alt: "Meshing"
     title: "CSM/CVM Meshing"
     excerpt: "Customer workflows + AI-guided, solution-aware meshing."
     url: /projects/#meshing-workflows
   - image_path: /assets/images/icons/paper.svg
+    alt: "Publication"
     title: "Publication"
     excerpt: "Sharp-interface fracture in solid-state batteries (JMPS, 2024)."
     url: /projects/#battery-modeling
+---
 
+I build practical simulation & robotics products—taking workflows from concept to shipping SDKs and customer wins.
+
+## Career at a Glance
+{% include feature_row id="career_row" type="left" %}
+
+## Highlights
 {% include feature_row id="feature_row" %}
